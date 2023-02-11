@@ -1,0 +1,26 @@
+{
+  "name": "mybots-builders",
+  "version": "1.0.0",
+  "description": "Builders for discordjs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JVRL18/mybots-builders.git"
+  },
+  "keywords": [
+    "mybots"
+  ],
+  "author": "João bot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JVRL18/mybots-builders/issues"
+  },
+  "homepage": "https://github.com/JVRL18/mybots-builders#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
